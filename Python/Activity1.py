@@ -1,0 +1,15 @@
+username= "Arti";
+print("enter your name");
+x = input();
+print ("hi" + x);
+print("enter your age");
+y=input();
+print("your age is" + y);
+age=int(y);
+a=100;
+int(a);
+z=0;
+int(z);
+z = a-age;
+age1 = str(z);
+print("you will turn 100 in "+ age1 + " years");
