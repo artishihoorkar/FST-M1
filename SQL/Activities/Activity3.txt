@@ -1,0 +1,6 @@
+Select salesman_id , salesman_city from salesman
+
+Select *  from salesman where Salesman_City = 'Paris'
+
+
+Select Salesman_Id, commission  from salesman where Salesman_Name = 'Paul Adam'
