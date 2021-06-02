@@ -30,7 +30,7 @@ import io.appium.java_client.android.AndroidDriver;
 
 
 
-public class Activity2_1 {
+public class Activity2 {
 
     WebDriverWait wait;
 
